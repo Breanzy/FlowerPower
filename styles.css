@@ -1,0 +1,22 @@
+a {
+    color: white;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+
+.background-image {
+    background-image: url("/images/garden.jpg");
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the image */
+    position: absolute; /* Position it absolutely */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1; /* Place it behind other content */
+    opacity: 0.5; /* Adjust the opacity of the background image */
+}

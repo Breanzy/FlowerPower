@@ -1,9 +1,9 @@
 
 <?php
 $host = 'localhost';
-$dbname = 'flowerpower';
+$dbname = 'FlowerPower';
 $username = 'root';
-$password = '';
+$password = 'root';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
