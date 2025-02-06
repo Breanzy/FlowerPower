@@ -6,7 +6,7 @@
 
 **Flower Power** is a simple flower shop webpage built using the XAMPP stack with Bootstrap for styling. It features user registration and login functionality, allowing customers to interact with the site and explore the flower shop's offerings. 
 
-This project is a requirement for our TASCollege ICT50220 Class Project
+This project is a requirement for our TASCollege ICT50220 Class Presentation
 
 ## 🚀 Features
 - 👤 User registration
